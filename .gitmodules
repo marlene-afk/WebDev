@@ -1,0 +1,3 @@
+[submodule "AccountaBuddy"]
+	path = AccountaBuddy
+	url = https://github.com/marlene-afk/Accountabuddy.git
